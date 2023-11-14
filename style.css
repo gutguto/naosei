@@ -1,0 +1,13 @@
+.inputs {
+    margin: 3vh;
+    background-color: #838383;
+    padding: 5vh;
+    border-radius: 10px;
+}
+
+.login {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 40vh;
+}
